@@ -1,0 +1,64 @@
+.navbar {
+  font-family: "Lexend Peta", sans-serif;
+}
+.jumbotron {
+  background-image: url(img/concert.jpg);
+  background-size: cover;
+  height: 700px;
+  text-align: center;
+}
+.jumbotron .display-4 {
+  color: black;
+  padding-top: 260px;
+  /* font-family: 'Bebas Neue', cursive; */
+  font-family: "Lexend Peta", sans-serif;
+}
+#blog {
+  background-color: #000000;
+  color: white;
+  font-family: "Fredoka", sans-serif;
+  padding-top: 50px;
+}
+#about {
+  background-color: #000000;
+  color: white;
+  padding-bottom: 50px;
+}
+#about h2 {
+  font-family: "Lexend Peta", sans-serif;
+}
+#about p {
+  font-family: "Fredoka", sans-serif;
+}
+#musician {
+  padding-top: 50px;
+  background-color: #000000;
+  color: white;
+  text-align: center;
+}
+#musician img {
+  width: 250px;
+  border: 3px solid #92a8d1;
+}
+#musician h2 {
+  font-family: "Lexend Peta", sans-serif;
+}
+#musician h5 {
+  font-family: "Lexend Peta", sans-serif;
+}
+#musician h3 {
+  font-family: "Lexend Peta", sans-serif;
+}
+#musician h4 {
+  font-family: "Fredoka", sans-serif;
+}
+#contact {
+  padding-top: 30px;
+  background-color: #141414;
+  color: white;
+  font-family: "Lexend Peta", sans-serif;
+}
+#contact img {
+  height: auto;
+  max-height: 50px;
+}
